@@ -21,7 +21,7 @@ Lớp `StudentAnalyzer` gồm các phương thức dùng để phân tích danh 
 
 ### ✅ Cách 1: Sử dụng IntelliJ IDEA / Eclipse
 
-- Mở project trong IntelliJ hoặc Eclipse
+- Mở project trong IntelliJ
 - Chuột phải vào file `StudentAnalyzerTest.java` → chọn **Run 'StudentAnalyzerTest'**
 - Kết quả test sẽ hiển thị trong cửa sổ Run/Test
 
