@@ -19,13 +19,17 @@ Lớp `StudentAnalyzer` gồm các phương thức dùng để phân tích danh 
 
 ---
 ## Cấu trúc dự án
+
 ├── src/
-│   ├── main/java/
-│   │   └── StudentAnalyzer.java
-│   └── test/java/
-│       └── StudentAnalyzerTest.java
+│   ├── main/
+│   │   └── java/
+│   │       └── StudentAnalyzer.java
+│   └── test/
+│       └── java/
+│           └── StudentAnalyzerTest.java
 ├── pom.xml
 └── README.md
+
 
 ---
 
