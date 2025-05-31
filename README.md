@@ -18,10 +18,20 @@ Lớp `StudentAnalyzer` gồm các phương thức dùng để phân tích danh 
    - Nếu không có điểm hợp lệ → trả về `0.0`
 
 ---
+## Cấu trúc dự án
+├── src/
+│   ├── main/java/
+│   │   └── StudentAnalyzer.java
+│   └── test/java/
+│       └── StudentAnalyzerTest.java
+├── pom.xml
+└── README.md
+
+---
 
 ## ▶️ Hướng dẫn chạy kiểm thử
 
-### ✅ Cách 1: Sử dụng IntelliJ IDEA
+### Sử dụng IntelliJ IDEA
 
 1. Mở project bằng IntelliJ IDEA
 2. Mở file `StudentAnalyzerTest.java`
@@ -40,12 +50,6 @@ Sau khi chạy test với coverage, bạn sẽ thấy:
 #### Kết quả coverage:
 
 ![img.png](img.png)
-| Tệp               | Line Coverage | Branch Coverage |
-|------------------|---------------|-----------------|
-| `StudentAnalyzer.java` | 100%          | 100%              |
-
-
-> 📝 Sử dụng phím tắt: Nhấn `Ctrl + Alt + F6` (hoặc vào menu `Run → Show Coverage Data`) để xem lại kết quả coverage bất kỳ lúc nào.
 
 ---
 
